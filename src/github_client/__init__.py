@@ -1,0 +1,1 @@
+"""Internal GitHub integration package."""
